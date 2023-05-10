@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b8fb3bdc.css",
-    "main.js": "/static/js/main.1f41c121.js",
+    "main.js": "/static/js/main.1a48503d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
     "static/media/salonlex.PNG": "/static/media/salonlex.7a7173fd65c020ebc534.PNG",
@@ -14,11 +14,11 @@
     "static/media/mysql.png": "/static/media/mysql.b18092c6c25d540eeb74.png",
     "index.html": "/index.html",
     "main.b8fb3bdc.css.map": "/static/css/main.b8fb3bdc.css.map",
-    "main.1f41c121.js.map": "/static/js/main.1f41c121.js.map",
+    "main.1a48503d.js.map": "/static/js/main.1a48503d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8fb3bdc.css",
-    "static/js/main.1f41c121.js"
+    "static/js/main.1a48503d.js"
   ]
 }
