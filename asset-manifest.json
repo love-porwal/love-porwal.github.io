@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8fb3bdc.css",
-    "main.js": "/static/js/main.e11bc21c.js",
+    "main.css": "/static/css/main.e8c202a7.css",
+    "main.js": "/static/js/main.97ee45d3.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
     "static/media/salonlex.PNG": "/static/media/salonlex.7a7173fd65c020ebc534.PNG",
@@ -12,13 +12,14 @@
     "static/media/Profile_picture.jpg": "/static/media/Profile_picture.6626599e5722c9c68600.jpg",
     "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
     "static/media/mysql.png": "/static/media/mysql.b18092c6c25d540eeb74.png",
+    "static/media/Logo.png": "/static/media/Logo.7ef897695f06086f1f46.png",
     "index.html": "/index.html",
-    "main.b8fb3bdc.css.map": "/static/css/main.b8fb3bdc.css.map",
-    "main.e11bc21c.js.map": "/static/js/main.e11bc21c.js.map",
+    "main.e8c202a7.css.map": "/static/css/main.e8c202a7.css.map",
+    "main.97ee45d3.js.map": "/static/js/main.97ee45d3.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8fb3bdc.css",
-    "static/js/main.e11bc21c.js"
+    "static/css/main.e8c202a7.css",
+    "static/js/main.97ee45d3.js"
   ]
 }
