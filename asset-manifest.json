@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.e8c202a7.css",
-    "main.js": "/static/js/main.97ee45d3.js",
+    "main.js": "/static/js/main.17961829.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
     "static/media/salonlex.PNG": "/static/media/salonlex.7a7173fd65c020ebc534.PNG",
     "static/media/dawaiwala.png": "/static/media/dawaiwala.b4853a53b0d6d66a3d0f.png",
     "static/media/Talkies.PNG": "/static/media/Talkies.470f06445c2b6d233414.PNG",
-    "static/media/Love_Porwal_Resume.pdf": "/static/media/Love_Porwal_Resume.09ff01a09effae2f98de.pdf",
+    "static/media/Love-Porwal-Resume.pdf": "/static/media/Love-Porwal-Resume.09ff01a09effae2f98de.pdf",
     "static/media/urban_attire.jpeg": "/static/media/urban_attire.da294fc527e27e0d7111.jpeg",
     "static/media/Profile_picture.jpg": "/static/media/Profile_picture.6626599e5722c9c68600.jpg",
     "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
@@ -15,11 +15,11 @@
     "static/media/Logo.png": "/static/media/Logo.7ef897695f06086f1f46.png",
     "index.html": "/index.html",
     "main.e8c202a7.css.map": "/static/css/main.e8c202a7.css.map",
-    "main.97ee45d3.js.map": "/static/js/main.97ee45d3.js.map",
+    "main.17961829.js.map": "/static/js/main.17961829.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8c202a7.css",
-    "static/js/main.97ee45d3.js"
+    "static/js/main.17961829.js"
   ]
 }
