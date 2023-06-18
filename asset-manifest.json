@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8c202a7.css",
-    "main.js": "/static/js/main.7b7804c2.js",
+    "main.css": "/static/css/main.34f8a415.css",
+    "main.js": "/static/js/main.9d47844d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/tool.jpg": "/static/media/tool.93d89dd8e162538288d0.jpg",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
     "static/media/salonlex.PNG": "/static/media/salonlex.7a7173fd65c020ebc534.PNG",
     "static/media/dawaiwala.png": "/static/media/dawaiwala.b4853a53b0d6d66a3d0f.png",
+    "static/media/netlify.png": "/static/media/netlify.d3689d1169ce706941a5.png",
+    "static/media/canva.png": "/static/media/canva.9001c48f564be8639788.png",
+    "static/media/git.png": "/static/media/git.8fa70958960c0b9085e8.png",
+    "static/media/typescript.png": "/static/media/typescript.dbd46c74cef2e61e43ad.png",
     "static/media/Talkies.PNG": "/static/media/Talkies.470f06445c2b6d233414.PNG",
     "static/media/Love-Porwal-Resume.pdf": "/static/media/Love-Porwal-Resume.09ff01a09effae2f98de.pdf",
     "static/media/urban_attire.jpeg": "/static/media/urban_attire.da294fc527e27e0d7111.jpeg",
     "static/media/Profile_picture.jpg": "/static/media/Profile_picture.6626599e5722c9c68600.jpg",
     "static/media/bgl.png": "/static/media/bgl.3d9ded7dc8d2c6399893.png",
+    "static/media/vscode.png": "/static/media/vscode.646e6af675679fc4fca3.png",
+    "static/media/radis.png": "/static/media/radis.925930bf029423d6c3d4.png",
     "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
     "static/media/mysql.png": "/static/media/mysql.b18092c6c25d540eeb74.png",
     "index.html": "/index.html",
-    "main.e8c202a7.css.map": "/static/css/main.e8c202a7.css.map",
-    "main.7b7804c2.js.map": "/static/js/main.7b7804c2.js.map",
+    "main.34f8a415.css.map": "/static/css/main.34f8a415.css.map",
+    "main.9d47844d.js.map": "/static/js/main.9d47844d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8c202a7.css",
-    "static/js/main.7b7804c2.js"
+    "static/css/main.34f8a415.css",
+    "static/js/main.9d47844d.js"
   ]
 }
