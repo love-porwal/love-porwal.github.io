@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34f8a415.css",
-    "main.js": "/static/js/main.459a0c56.js",
+    "main.js": "/static/js/main.8a033d41.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/tool.jpg": "/static/media/tool.93d89dd8e162538288d0.jpg",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
@@ -12,7 +12,7 @@
     "static/media/git.png": "/static/media/git.8fa70958960c0b9085e8.png",
     "static/media/typescript.png": "/static/media/typescript.dbd46c74cef2e61e43ad.png",
     "static/media/Talkies.PNG": "/static/media/Talkies.470f06445c2b6d233414.PNG",
-    "static/media/Love-Porwal-Resume.pdf": "/static/media/Love-Porwal-Resume.09ff01a09effae2f98de.pdf",
+    "static/media/Love-Porwal-Resume.pdf": "/static/media/Love-Porwal-Resume.f956aaf741952254335f.pdf",
     "static/media/urban_attire.jpeg": "/static/media/urban_attire.da294fc527e27e0d7111.jpeg",
     "static/media/Profile_picture.jpg": "/static/media/Profile_picture.6626599e5722c9c68600.jpg",
     "static/media/bgl.png": "/static/media/bgl.3d9ded7dc8d2c6399893.png",
@@ -22,11 +22,11 @@
     "static/media/mysql.png": "/static/media/mysql.b18092c6c25d540eeb74.png",
     "index.html": "/index.html",
     "main.34f8a415.css.map": "/static/css/main.34f8a415.css.map",
-    "main.459a0c56.js.map": "/static/js/main.459a0c56.js.map",
+    "main.8a033d41.js.map": "/static/js/main.8a033d41.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34f8a415.css",
-    "static/js/main.459a0c56.js"
+    "static/js/main.8a033d41.js"
   ]
 }
